@@ -11,6 +11,10 @@
 ?><!DOCTYPE html>
 <html <?php language_attributes(); ?> class="no-js">
 <head>
+
+	<script>window._epn = {campaign:5338028446};</script>
+<script src="https://epnt.ebay.com/static/epn-smart-tools.js"></script>
+
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
